@@ -1,1 +1,1 @@
-"Convertitore" è una piccola app desktop realizzata in python (utilizzo di pycharm come IDE). Bottoni da migliorare, la seconda finestra non serve a molto, ma l'ho aggiunta per sperimentare con il "multi-pagina"
+"Convertitore" è una piccola app desktop realizzata in python (utilizzo di pycharm come IDE). Bottoni da migliorare graficamente, la seconda finestra per ora non realizza modifiche fondamentali, ma l'ho aggiunta per sperimentare con il "multi-pagina"
